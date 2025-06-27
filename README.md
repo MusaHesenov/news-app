@@ -1,31 +1,40 @@
-# NewsWipe
+News App
+A dynamic and feature-rich news application built with Flutter. This app enables users to stay updated with the latest news across various categories and sources.
 
-<!-- ![Flutter news app by vandit](https://i.imgur.com/OEf05lU.gif) -->
+Features
+Categorized News: Browse news by categories like Sports, Health, Business, Technology, and more.
+Search News: Search for articles using keywords.
+Filter by Sources: View news from specific sources or channels.
 
-<p align="center"><img src="https://i.imgur.com/OEf05lU.gif"></p>
 
-| Main Screen | Content Screen | Image View |
-|-------------|----------------|------------|
-| ![vendz](https://i.imgur.com/NpUJ1Aw.png) | ![vendz](https://i.imgur.com/lHjBQgw.png) | ![vendz](https://i.imgur.com/NU47Rr6.png) |
+
+| Main Screen | Image View |
+|-------------|------------|
+| ![Home Screen](assets/src1.jpg) | ![Home Screen](assets/src4.jpg) |
 
 | Category Screen | Dark Theme |
 | ---------------| ---------- |
-| ![vendz](https://i.imgur.com/VEu0O1i.png) | ![vendz](https://i.imgur.com/ju1gcSg.png) |
+| ![Home Screen](assets/src2.jpg) | ![Home Screen](assets/src3.jpg) |
 
-### Installation
+## Installation
 
-```
-flutter pub get
-```
-### Usage 
+1. Clone the repository:
 
-```
-flutter run
-```
+   bash
+   git clone https://github.com/MusaHesenov/news-app.git
+   cd news-app
+   
 
-### This app is made using API's made by me:
-- [Inshorts API](https://github.com/vendz/inshorts-api)
-- [DailyHunt API](https://github.com/vendz/dailyhunt-api)
----
+2. Open the project in your preferred IDE (Android Studio, VS Code, etc.).
 
-**Download the APK from [releases tab](https://github.com/vendz/news-app-flutter/releases)**
+3. Install dependencies:
+   bash
+   flutter pub get
+   
+
+4. Run the app on an emulator or a physical device:
+   bash
+   flutter run
+
+
+
